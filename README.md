@@ -1,6 +1,6 @@
-# NLPy
+# Wordcount API
 
-Python Natural Language Processing
+API to count unique words in german and english texts
 
 ## Installation
 
