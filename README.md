@@ -1,6 +1,7 @@
 # Wordcount API
 
-API to count unique words in german and english texts
+API to count unique words in german and english texts. 
+See the frontend code [here](https://github.com/wbkd/wordcounter).
 
 ## Installation
 
