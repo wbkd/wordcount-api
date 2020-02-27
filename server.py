@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+import os
 from collections import Counter
 from src.Analyzer import Analyzer
 from flask import Flask, escape, request, jsonify
@@ -23,4 +24,5 @@ def home(lang):
   return jsonify(common_words)
 
 if __name__ == "__main__":
-  app.run()
+  port = int(os.environ.get('PORT', 5000))
+  app.run(host='0.0.0.0', port=port)
