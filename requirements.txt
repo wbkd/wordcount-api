@@ -19,7 +19,7 @@ lxml==4.4.1
 MarkupSafe==1.1.1
 more-itertools==7.2.0
 mysqlclient==1.4.4
-nltk==3.3
+nltk==3.4.5
 numpy==1.17.2
 Pattern==3.6
 pdfminer.six==20181108
