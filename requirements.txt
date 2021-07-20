@@ -34,6 +34,6 @@ six==1.12.0
 sortedcontainers==2.1.0
 soupsieve==1.9.3
 tempora==1.14.1
-urllib3==1.25.3
+urllib3==1.26.5
 Werkzeug==0.15.6
 zc.lockfile==2.0
