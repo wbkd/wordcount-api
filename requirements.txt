@@ -15,7 +15,7 @@ idna==2.8
 itsdangerous==1.1.0
 jaraco.functools==2.0
 Jinja2==2.10.1
-lxml==4.4.1
+lxml==4.9.1
 MarkupSafe==1.1.1
 more-itertools==7.2.0
 mysqlclient==1.4.4
